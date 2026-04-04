@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Learning bootstrap with sass",
+  "keywords": [
+    "Bootstrap",
+    "bootstrap",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "license": "ISC",
+  "author": "Abdulhameed Lateef",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
