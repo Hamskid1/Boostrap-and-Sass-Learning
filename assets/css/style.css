@@ -12212,7 +12212,13 @@ textarea.form-control-lg {
 .form button a {
   color: #fff;
   text-decoration: none;
-  text-transform: c;
+  text-transform: capitalize;
+}
+
+.footer {
+  padding-top: 1rem;
+  background-color: #151414;
+  color: #fff;
 }
 
 /*# sourceMappingURL=style.css.map */
